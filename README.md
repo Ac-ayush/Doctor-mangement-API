@@ -1,3 +1,4 @@
+- USE NODE 20
 #### Technologies (Backend based)
 - Apollo graphQL
 - AWS DynamoDB
